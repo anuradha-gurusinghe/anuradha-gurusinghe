@@ -6,7 +6,7 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-24-blue" />&nbsp;
+  <img src="https://img.shields.io/badge/Age-27-blue" />&nbsp;
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />&nbsp;
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-orange" />
 </p>
