@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anuradha-gurusinghe-3bab37196">
-    <img alt="Malindu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img alt="Anuradha's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>&nbsp;
 
 </p>
